@@ -1,0 +1,4 @@
+mailbot:
+  credentialsJson: "C:/Users/malle/Desktop/New folder/new_cred.json"
+  tokenDir: "C:/Users/malle/Desktop/New folder/tokens"
+  outputDir: "C:/Users/malle/Desktop/New folder/Data"
